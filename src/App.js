@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container } from 'react-bootstrap';
 
-import Author from './components/Author';
 import AuthorsSearch from './components/AuthorsSearch';
 
 function App() {
